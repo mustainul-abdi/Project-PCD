@@ -1,3 +1,10 @@
 deteksi dan ekstraksi teks dari faktur transfer bank
 Tujuan :
     - untuk audit transaksi berdasarkan faktur/bukti tansfer ebanking
+
+Penyelesaian :
+    - Menggunakan metode OCR
+
+link:
+https://www.youtube.com/watch?v=w5V5q7FcHzs
+https://www.youtube.com/watch?v=fcZ0lgNImDk
