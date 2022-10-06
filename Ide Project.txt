@@ -1,0 +1,3 @@
+deteksi dan ekstraksi teks dari faktur transfer bank
+Tujuan :
+    - untuk audit transaksi berdasarkan faktur/bukti tansfer ebanking
