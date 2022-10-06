@@ -11,6 +11,18 @@ https://www.youtube.com/watch?v=w5V5q7FcHzs
 ini bagus
 https://www.youtube.com/watch?v=fcZ0lgNImDk
 
+#####
+pembuatan aplikasi web untuk upload faktur, menyimpan dan report
+
+yang di buat :
+    - sistem web, meliputi : - upload
+                             - repositori
+                             - manajemen
+                             - report
+                             
+    - python untuk deteksi dan ekstraksi teks
+    - API untuk menghubungkan antara WEB dan Python
+
 
 2. Deteksi face emotion
 
