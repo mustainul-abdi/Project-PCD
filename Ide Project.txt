@@ -1,9 +1,13 @@
-1. deteksi dan ekstraksi teks dari faktur/bukti tansfer ebanking
+1. deteksi dan ekstraksi teks dari faktur/bukti tansfer ebanking atau bukti tansaksi lainnya
 Tujuan :
     - untuk audit transaksi berdasarkan faktur/bukti tansfer ebanking
 
-Penyelesaian :
+Metode:
+    - mengekstraksi fitur/ teks dari faktur
     - Menggunakan metode OCR
+    
+bukti transaksi :
+    - ebanking (transfer, Tarik Tunai, cek saldo, pulsa, tagihan listrik, Token Listrik, dana, shopee pay, Link Aja)
 
 link:
 https://www.youtube.com/watch?v=w5V5q7FcHzs
